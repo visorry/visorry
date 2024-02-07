@@ -32,7 +32,7 @@
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
-  &emsp; I like to implement and code things, mostly as websites, when I find something interesting.
+  &emsp; I like to implement and code things, mostly as websites, when I find something interesting.<br/><br/>
   &emsp; Reach me anytime at: vishnuvisa00@gmail.com<br/><br/>
 
 </p>
