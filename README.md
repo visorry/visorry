@@ -59,10 +59,18 @@ Reach me anytime at: vishnuvisa00@gmail.com<br/><br/>
 <br/>
 <hr/>
 <br/>
+<p align="center">
+   <a href="https://github-readme-stats.vercel.app">
+        <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=visorry&theme=onedark&custom_title=GitHub+Stats&hide_border=true"/>
+    </a>
+</p>
 
 <p align="center">
         
-
+<a href="https://github-readme-streak-stats.herokuapp.com">
+        <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=visorry&theme=onedark&hide_border=true"/>
+    </a>
+    </a>
         
 <br />
 
@@ -70,25 +78,6 @@ Reach me anytime at: vishnuvisa00@gmail.com<br/><br/>
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=visorry.visorry)
 </p>
 
-
-
- <a href="https://github-readme-stats.vercel.app">
-        <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=visorry&theme=onedark&custom_title=GitHub+Stats&hide_border=true"/>
-    </a>
-    <a href="https://github-readme-streak-stats.herokuapp.com">
-        <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=visorry&theme=onedark&hide_border=true"/>
-    </a>
-    <a><h2>Trophies</h2></a>
-    </a>
-
-    
-
-
-<p align="center">
-  <a href="https://github.com/visorry">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=visorry&theme=radical" alt="Vishnu's GitHub Contribution"/>
-  </a>
-</p>
 
 <a> 
     <a href="https://github.com/visorry">
