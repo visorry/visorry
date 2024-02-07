@@ -61,7 +61,10 @@ Reach me anytime at: vishnuvisa00@gmail.com<br/><br/>
 <br/>
 
 <p align="center">
-[shadow_red]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=shadow_red
+        <a href="https://github.com/visorry">
+    <img src="https://github-readme-stats.vercel.app/api?username=visorry&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=shadow_red"/>
+  </a>
+
         
 <br />
 
