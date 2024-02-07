@@ -17,10 +17,10 @@
 
 <p align="center">
  <a href="https://portfolio-gules-six-82.vercel.app/" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="vis" />
  </a>
  <a href="https://linkedin.com/in/vishnuvisa" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="vishnu"/>
  </a>
 
 </p>
@@ -65,11 +65,11 @@ Reach me anytime at: vishnuvisa00@gmail.com<br/><br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=visorry&theme=radical&border=7F3FBF&background=0D1117" alt="Vis's GitHub streak"/>
   </a>
         
-![TomasCostaK's github stats](https://github-readme-stats.vercel.app/api?username=TomasCostaK&show_icons=true)
+![TomasCostaK's github stats](https://github-readme-stats.vercel.app/api?username=visorry&show_icons=true)
 <br />
 
 <!-- Optional Visitors badge: -->
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=TomasCostaK.TomasCostaK)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=visorry.visorry)
 </p>
 
 <p align="center">
