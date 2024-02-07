@@ -60,9 +60,9 @@ Reach me anytime at: vishnuvisa00@gmail.com<br/><br/>
 <br/>
 
 <p align="center">
-  <a href="https://github.com/visorry">
+<!--   <a href="https://github.com/visorry">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=visorry&theme=radical&border=7F3FBF&background=0D1117" alt="Vis's GitHub streak"/>
-  </a>
+  </a> -->
 </p>
 
 <p align="center">
