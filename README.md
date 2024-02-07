@@ -81,8 +81,8 @@ Reach me anytime at: vishnuvisa00@gmail.com<br/><br/>
 
 <a> 
     <a href="https://github.com/visorry">
-    <img src="https://github-readme-stats.vercel.app/api?username=visorry&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=radical"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=visorry&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=onedark"/>
   </a>
-  <a href="https://github.com/visorry"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=visorry&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/visorry"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=visorry&langs_count=8&layout=compact&theme=onedark&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
