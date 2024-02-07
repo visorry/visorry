@@ -64,6 +64,12 @@ Reach me anytime at: vishnuvisa00@gmail.com<br/><br/>
   <a href="https://github.com/visorry">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=visorry&theme=radical&border=7F3FBF&background=0D1117" alt="Vis's GitHub streak"/>
   </a>
+        
+![TomasCostaK's github stats](https://github-readme-stats.vercel.app/api?username=TomasCostaK&show_icons=true)
+<br />
+
+<!-- Optional Visitors badge: -->
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=TomasCostaK.TomasCostaK)
 </p>
 
 <p align="center">
