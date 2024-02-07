@@ -60,9 +60,7 @@ Reach me anytime at: vishnuvisa00@gmail.com<br/><br/>
 <hr/>
 <br/>
 <p align="center">
-   <a href="https://github-readme-stats.vercel.app">
-        <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=false&username=visorry&theme=onedark&custom_title=GitHub+Stats&hide_border=true"/>
-    </a>
+  
 </p>
 
 <p align="center">
@@ -80,9 +78,9 @@ Reach me anytime at: vishnuvisa00@gmail.com<br/><br/>
 
 
 <a> 
-    <a href="https://github.com/visorry">
-    <img src="https://github-readme-stats.vercel.app/api?username=visorry&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=onedark"/>
-  </a>
+     <a href="https://github-readme-stats.vercel.app">
+        <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=false&username=visorry&theme=onedark&custom_title=GitHub+Stats&hide_border=true"/>
+    </a>
   <a href="https://github.com/visorry"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=visorry&langs_count=8&layout=compact&theme=onedark"/></a>
   <br/>
 </a>
