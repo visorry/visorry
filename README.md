@@ -61,20 +61,20 @@ Reach me anytime at: vishnuvisa00@gmail.com<br/><br/>
 <br/>
 
 <p align="center">
-  <a href="https://github.com/visorry">
+  <a href="https://github.com/visordry">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=visorry&theme=radical&border=7F3FBF&background=0D1117" alt="Vis's GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/visorry">
+  <a href="https://github.com/visodrry">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=visorry&theme=radical" alt="Vishnu's GitHub Contribution"/>
   </a>
 </p>
 
 <a> 
-    <a href="https://github.com/visorry"><img alt="Vishnu's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=visorry&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/visorry"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=visorry&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/dd"><img alt="Vishnu's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=visorry&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/visordry"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=visdorry&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
