@@ -53,7 +53,7 @@ Reach me anytime at: vishnuvisa00@gmail.com<br/><br/>
 <br/>
 
 <p align="left">
-  <a href="https://github.com/visorry?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+  <a href="https://github.com/visorry?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/> </a>
 </p>
 
 <br/>
@@ -65,9 +65,7 @@ Reach me anytime at: vishnuvisa00@gmail.com<br/><br/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/visorry">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=visorry&theme=radical" alt="Vishnu's GitHub Contribution"/>
-  </a>
+
 </p>
 
 <a> 
