@@ -1,22 +1,4 @@
-<!--
-<h2 align="center">
-  Welcome to Al Siam World!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h2>
--->
 
-<!--
-<p align="center">
-  <a href="https://github.com/alsiam"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
-</p>
-
- -->
-
-<a href="https://komarev.com/ghpvc/?username=visorry">
-  <img align="right" src="https://komarev.com/ghpvc/?username=visorry&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-</a>
-
-<!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
                 <b><a target="_blank" href="https://portfolio-gules-six-82.vercel.app/">Vishnu R</a></b>
@@ -26,7 +8,6 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Vishnu+R">「 Google Me 」</a>
     <br>
     「 I am a Backend web application developer from <b>Kerala, India</b> 」
     <br>
@@ -51,10 +32,8 @@
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
-  &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
-  &emsp; Love to writing code and learning new features<br/><br/>
-  &emsp; Reach me anytime: alsiam.dev@gmail.com<br/><br/>
-  &emsp; Ask me about anything [here](https://github.com/visorry/visorry/issues)
+  &emsp; I like to implement and code things, mostly as websites, when I find something interesting.
+  &emsp; Reach me anytime at: vishnuvisa00@gmail.com<br/><br/>
 
 </p>
 
