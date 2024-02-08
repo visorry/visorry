@@ -1,6 +1,6 @@
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="visorry.github.io/">Vishnu R</a></b>
+                <b><a target="_blank" href="https://visorry.github.io/">Vishnu R</a></b>
         </samp>
 </h3>
 
@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
- <a href="https://portfolio-gules-six-82.vercel.app/" target="blank">
+ <a href="https://visorry.github.io/" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
  </a>
  <a href="https://linkedin.com/in/vishnuvisa" target="_blank">
