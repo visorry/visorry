@@ -29,7 +29,6 @@
  # About me
  
 <p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
 * I like to implement and code things, mostly as websites, when I find something interesting.<br/><br/>
 * Reach me anytime at: vishnuvisa00@gmail.com<br/><br/>
