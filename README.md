@@ -30,7 +30,7 @@
  
 <p>
   
-* I like to implement and code things, mostly as websites, when I find something interesting.<br/><br/>
+* I like to implement and code things, mostly as websites, but the idea.<br/><br/>
 * Reach me anytime at: vishnuvisa00@gmail.com<br/><br/>
 
 </p>
