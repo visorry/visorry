@@ -18,8 +18,9 @@
   <a href="https://github.com/visorry">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=visorry&theme=radical&border=7F3FBF&background=0D1117" alt="Vis's GitHub streak"/>
   </a>
-        [![](https://visitcount.itsvg.in/api?id=visorry&icon=0&color=0)](https://visitcount.itsvg.in)
-
+<div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=visorry&label=Profile%20views&color=0e75b6&style=flat" alt="vishnu-r" /> </p>
+<div>
 </p>
   <br/>
 </a>
